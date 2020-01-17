@@ -14,7 +14,7 @@
 
 </div>
 
-##  :octocat: Version Control With Git
+## ⛓ Version Control With Git
 This repository will contain my work from **_Version Control With Git_** that was created by By Atlassian University and delivered through Coursera.
 
 
