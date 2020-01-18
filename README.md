@@ -15,7 +15,7 @@
 
 </div>
 
-## ⛓ Version Control With Git
+## 💡 Version Control With Git
 
 **_This repository will contain my work from Version Control With Git that was created by By Atlassian University and delivered through Coursera_**
 
