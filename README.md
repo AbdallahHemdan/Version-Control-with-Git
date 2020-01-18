@@ -25,7 +25,7 @@
 
 ### 📜 Notes
 
-[OurFirstRepo_DevOpsGitNutshell](https://github.com/AbdallahHemdan/Version-Control-with-Git/blob/master/Notes/00_OurFirstRepo_DevOpsGitNutshell.ipynb)
+- [OurFirstRepo_DevOpsGitNutshell](https://github.com/AbdallahHemdan/Version-Control-with-Git/blob/master/Notes/00_OurFirstRepo_DevOpsGitNutshell.ipynb)
 - [OurFirstRepo_GitOverview](https://github.com/AbdallahHemdan/Version-Control-with-Git/blob/master/Notes/01_OurFirstRepo_GitOverview.ipynb)
 - [OurFirstRepo_GitLocations](https://github.com/AbdallahHemdan/Version-Control-with-Git/blob/master/Notes/02_OurFirstRepo_GitLocations.ipynb)
 - [OurFirstRepo_CommitLocalRepo](https://github.com/AbdallahHemdan/Version-Control-with-Git/blob/master/Notes/03_OurFirstRepo_CommitLocalRepo.ipynb)
