@@ -7,6 +7,7 @@ Most Used Git Commands
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
+| `git clone ssh://git@github.com/[username]/[repository-name].git [Local-Project-Name]` | Create a local copy of a remote repository  with a specific name|
 
 ### 📌 Basic Snapshotting
 
